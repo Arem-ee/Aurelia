@@ -1,0 +1,6 @@
+{
+  "name": "Handmade Jewelry Store",
+  "description": "An elegant e-commerce atelier for slow-forged handmade jewelry, featuring raw celestial gemstones, certified recycled precious metals, bespoke AI styling, and persistent wishlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
